@@ -7,7 +7,7 @@
   > `git checkout -b my-feature`
 - 第四步 在本地上进行修改（在my-feature分支上）
 - 第五步 将改动提交到本地my-feature
-  > `git diff`
+  > git diff
   > `git add .`
   > `git commit`
   - 由于本地系统设置，如果在VSCode上的terminal运行的话，在commit的时候会弹出一个窗口
