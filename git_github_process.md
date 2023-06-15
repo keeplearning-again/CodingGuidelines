@@ -7,9 +7,9 @@
   > `git checkout -b my-feature`
 - 第四步 在本地上进行修改（在my-feature分支上）
 - 第五步 将改动提交到本地my-feature
-  - > `git diff`
-  - > `git add .`
-  - > `git commit`
+  > `git diff`
+  > `git add .`
+  > `git commit`
   - 由于本地系统设置，如果在VSCode上的terminal运行的话，在commit的时候会弹出一个窗口
   - ![image-20230615162307000](https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202306151623188.png)
   - 这个时候的操作步骤是 
@@ -33,3 +33,5 @@
     > `git checkout main`
     > `git branch -D my-feature`
     > `git pull origin master`
+
+最后如果本地已经做了一次了，那么记得从第三步开始，如果实在偷懒，最好保证代码别报错
