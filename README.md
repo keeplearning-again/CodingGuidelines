@@ -25,10 +25,10 @@ This section provides a brief overview of Markdown syntax and some common use ca
 
 This section provides guidelines for using Git and GitHub in a collaborative environment.
 
-- [Branching](#branching)
-- [Commit Messages](#commit-messages)
-- [Pull Requests](#pull-requests)
-- [Code Reviews](#code-reviews)
+- [Branching](git_github_process.md)
+- [Commit Messages](git_github_process.md)
+- [Pull Requests](git_github_process.md)
+- [Code Reviews](git_github_process.md)
 
 ## Contributing
 
