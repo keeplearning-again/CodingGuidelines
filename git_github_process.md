@@ -10,7 +10,13 @@
   > `git diff`
   > `git add .`
   > `git commit`
-  - 由于本地系统设置，如果在VSCode上的terminal运行的话，在commit的时候会弹出一个窗口，
+  - 由于本地系统设置，如果在VSCode上的terminal运行的话，在commit的时候会弹出一个窗口
+  - ![image-20230615162307000](https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202306151623188.png)
+  - 这个时候的操作步骤是 
+    - 键盘上在英文状态输入`i` 
+    - 找到修改或是新建文件所在位置 然后将那一行前面的 `#` 删除
+    - 按`Esc`
+    - 大写的`ZZ`
 - 第六步 将本地改动推送到远端 
   > `git push origin  my-feature`
 - 第七步 假设同时远端有更新，所以就要先看看会不会冲突(optional)
