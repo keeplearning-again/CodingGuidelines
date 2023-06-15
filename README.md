@@ -35,7 +35,8 @@ This section provides guidelines for using Git and GitHub in a collaborative env
 
 Here are some examples for READ.me Files.
 
-- [DNN research](./readme/readme_DNN_example.md)
+- [DNN research Chinese](./readme/readme_DNN_example.md)
+- [DNN research English](./readme/readme_DNN_En.md)
 - [Basic Standard Readme](./readme/readme_example.md)
 
 
