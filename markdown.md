@@ -77,7 +77,7 @@ $$
 
 ### 生成思维导图
 
-    ![image-20230201163841129](https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011638203.png)
+- ![思维导图](https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202302011638203.png)
 
 ----
 
