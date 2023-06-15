@@ -1,4 +1,9 @@
 # Title
+> reference: 
+> - https://github.com/RichardLitt/standard-readme/blob/main/example-readmes/minimal-readme.md
+> - https://shields.io/#/
+> ***copy from [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme/blob/main/README.zh-CN.md#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)***
+
 
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](../LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)

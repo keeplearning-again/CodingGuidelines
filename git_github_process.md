@@ -1,5 +1,5 @@
 # Github工作流
-
+## 针对打算做一个新的repo或是第一次运行
 - 第一步 在远端先fork一个别人的仓库
 - 第二步 找到自己fork的仓库再git clone到本地和disk
   > `git clone .git`
@@ -34,4 +34,12 @@
     > `git branch -D my-feature`
     > `git pull origin master`
 
-最后如果本地已经做了一次了，那么记得从第三步开始，如果实在偷懒，最好保证代码别报错
+## 针对已经完成第一次的文件夹
+- 懒得继续搞新的branch+且对自己的代码很自信 -- 那么就直接在main上面修改
+  - 在VSCode里面修改 
+  - 添加到git本地端
+    - `git add .`
+    - ![git add](https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202306151736500.png) 
+  - commit & push
+    - 记得加上message
+    - ![git插件push](https://raw.githubusercontent.com/keeplearning-again/Typora_blog_images/main/blog/202306151738672.png)
