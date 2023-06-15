@@ -6,6 +6,7 @@ This repository contains a collection of guidelines and best practices for codin
 - [Coding Guidelines](#coding-guidelines)
   - [Markdown Basics](#markdown-basics)
   - [Git and GitHub Guidelines](#git-and-github-guidelines)
+  - [How to Write READ.me File?](#how-to-write-readme-file)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -14,12 +15,12 @@ This repository contains a collection of guidelines and best practices for codin
 
 This section provides a brief overview of Markdown syntax and some common use cases.
 
-- [Headers](#headers)
-- [Emphasis](#emphasis)
-- [Lists](#lists)
-- [Links](#links)
-- [Images](#images)
-- [Code Blocks](#code-blocks)
+- [Headers](markdown.md)
+- [Emphasis](markdown.md)
+- [Lists](markdown.md)
+- [Links](markdown.md)
+- [Images](markdown.md)
+- [Code Blocks](markdown.md)
 
 ## Git and GitHub Guidelines
 
@@ -29,6 +30,14 @@ This section provides guidelines for using Git and GitHub in a collaborative env
 - [Commit Messages](git_github_process.md)
 - [Pull Requests](git_github_process.md)
 - [Code Reviews](git_github_process.md)
+
+## How to Write READ.me File?
+
+Here are some examples for READ.me Files.
+
+- [DNN research](./readme/readme_DNN_example.md)
+- [Basic Standard Readme](./readme/readme_example.md)
+
 
 ## Contributing
 
