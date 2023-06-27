@@ -6,7 +6,7 @@ This repository contains a collection of guidelines and best practices for codin
 - [Coding Guidelines](#coding-guidelines)
   - [Markdown Basics](#markdown-basics)
   - [Git and GitHub Guidelines](#git-and-github-guidelines)
-  - [How to Write READ.me File?](#how-to-write-readme-file)
+  - [How to Write READ.me File for deep learning models?](#how-to-write-readme-file-for-deep-learning-models)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -31,7 +31,7 @@ This section provides guidelines for using Git and GitHub in a collaborative env
 - [Pull Requests](git_github_process.md)
 - [Code Reviews](git_github_process.md)
 
-## How to Write READ.me File?
+## How to Write READ.me File for deep learning models?
 
 Here are some examples for READ.me Files.
 
